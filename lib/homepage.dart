@@ -60,7 +60,7 @@ class _HomePageState extends State<HomePage> {
           Card(
             child: ListTile(
               leading: Icon(Icons.star, color: Colors.blue),
-              title: Text('Master Test'),
+              title: Text('Master Test Test'),
               subtitle: Text('All your favourite widgets'),
               trailing: Icon(Icons.arrow_forward_ios),
               onTap: () {
